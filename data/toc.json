@@ -1,0 +1,95 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "label": "Home",
+          "href": "index.html"
+        }
+      ]
+    },
+    {
+      "label": "Design Patterns",
+      "items": [
+        {
+          "label": "GoF Design Patterns",
+          "href": "pages/html/html-tags.html"
+        }
+      ]
+    },
+    {
+      "label": "Book Recommendations",
+      "bullets": true,
+      "items": [
+        {
+          "label": "Design Patterns",
+          "href": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1535385679&sr=8-1&keywords=design+patterns+elements+of+reusable+object+oriented+software",
+          "target": "_blank"
+        },
+        {
+          "label": "Enterprise Integration Patterns",
+          "href": "https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683/ref=sr_1_1?s=books&ie=UTF8&qid=1535385765&sr=1-1&keywords=enterprise+integration+patterns",
+          "target": "_blank"
+        },
+        {
+          "label": "Patterns of Enterprise Application Architecture",
+          "href": "https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1535386206&sr=8-1&keywords=patterns+of+enterprise+application+architecture+by+martin+fowler",
+          "target": "_blank"
+        },
+        {
+          "label": "Refactoring",
+          "href": "https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1535386247&sr=1-1&keywords=refactoring",
+          "target": "_blank"
+        },
+        {
+          "label": "Clean Code",
+          "href": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1_sspa?s=books&ie=UTF8&qid=1535386772&sr=1-1-spons&keywords=clean+code&psc=1",
+          "target": "_blank"
+        },
+        {
+          "label": "The Pragmatic Programmer",
+          "href": "https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1535386883&sr=1-1&keywords=pragmatic+programmer",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "label": "Other Notebooks",
+      "items": [
+        {
+          "label": "Web Developer",
+          "href": "https://kevinknowscs.github.io/VanillaJS-Demos"
+        },
+        {
+          "label": "C# / .NET Developer",
+          "href": "https://kevinknowscs.github.io/DotNetNotebook"
+        },
+        {
+          "label": "DevOps",
+          "href": "https://kevinknowscs.github.io/DevOpsNotebook"
+        }
+      ]
+    },
+    {
+      "label": "More",
+      "items": [
+        {
+          "label": "About Me",
+          "href": "pages/more/aboutme.html"
+        },
+        {
+          "label": "More Learning Content",
+          "href": "pages/more/morecontent.html"
+        },
+        {
+          "separator": true
+        },
+        {
+          "label": "GitHub Source",
+          "href": "https://github.com/kevinknowscs/ArchitectNotebook",
+          "target": "_blank"
+        }
+      ]
+    }
+  ]
+}
