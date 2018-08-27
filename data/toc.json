@@ -37,6 +37,11 @@
           "target": "_blank"
         },
         {
+          "label": "Domain-Specific Languages",
+          "href": "https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler/dp/0321712943/ref=sr_1_2?s=books&ie=UTF8&qid=1535388199&sr=1-2&keywords=domain+specific+languages",
+          "target": "_blank"
+        },
+        {
           "label": "Refactoring",
           "href": "https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1535386247&sr=1-1&keywords=refactoring",
           "target": "_blank"
@@ -49,6 +54,16 @@
         {
           "label": "The Pragmatic Programmer",
           "href": "https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1535386883&sr=1-1&keywords=pragmatic+programmer",
+          "target": "_blank"
+        },
+        {
+          "label": "Parsing Techniques",
+          "href": "https://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015/ref=sr_1_1?s=books&ie=UTF8&qid=1535388005&sr=1-1&keywords=parsing+techniques+a+practical+guide",
+          "target": "_blank"
+        },
+        {
+          "label": "Compilers: Principles, Techniques, and Tools",
+          "href": "https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886/ref=sr_1_1?s=books&ie=UTF8&qid=1535388033&sr=1-1&keywords=compilers+principles%2C+techniques%2C+and+tools",
           "target": "_blank"
         }
       ]
